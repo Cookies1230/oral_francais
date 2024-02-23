@@ -1,0 +1,30 @@
+body {
+    background-color: #bf125d;
+    font-family: Argesta;
+    margin: 0;
+}
+
+h1.titre {
+    font-size: 34px;
+    color: black
+}
+
+div.contenue {
+    text-align: center;
+    margin: 60px 10% 80px 10%;
+    min-width: 350px;
+    min-height: 500px;
+    background-color: white;
+    box-shadow: 0 0 8px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px 30px 30px 30px;
+}
+
+img.lance {
+    position: absolute; left: 200px;
+    width: 100px;
+}
+
+img.lance2 {
+    width: 100px;
+    position: absolute; right: 200px
+}
